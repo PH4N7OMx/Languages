@@ -449,5 +449,13 @@
   "IntroAbout": "欢迎使用 AyuGram 桌面版。\n自定义你的 Telegram。",
   "AboutText1": "基于 {api_link} 的违反 ToS 的 Telegram 客户端。",
   "UpdateAyuGram": "更新 AyuGram",
-  "UtilityRestartRequired": "应用将在5秒后关闭。"
+  "UtilityRestartRequired": "应用将在5秒后关闭。",
+  "DisableMentions": "Disable Mentions",
+  "EnableMentions": "Enable Mentions",
+  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
+  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
+  "CreationDateSelfLater": "You created your account later than %1$s.",
+  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
+  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
+  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
 }

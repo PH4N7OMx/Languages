@@ -449,5 +449,13 @@
   "IntroAbout": "Witaj w AyuGram Desktop.\nDostosuj Telegram do siebie.",
   "AboutText1": "Klient Telegrama łamiący ToS, oparty na {api_link}.",
   "UpdateAyuGram": "Zaktualizuj AyuGram",
-  "UtilityRestartRequired": "Aplikacja zamknie się za 5 sekund."
+  "UtilityRestartRequired": "Aplikacja zamknie się za 5 sekund.",
+  "DisableMentions": "Disable Mentions",
+  "EnableMentions": "Enable Mentions",
+  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
+  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
+  "CreationDateSelfLater": "You created your account later than %1$s.",
+  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
+  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
+  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
 }
