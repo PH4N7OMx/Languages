@@ -466,5 +466,5 @@
   "CollapseDuplicates": "Collapse duplicate messages (xN)",
   "FiltersPerChatSection": "Per-chat filters",
   "FiltersAddPerChat": "Configure filters for specific chat...",
-  "KeepForbiddenChats": "Keep Banned & Kicked Chats"
+  "KeepForbiddenChats": "Keep Left Chats"
 }

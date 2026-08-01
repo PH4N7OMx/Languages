@@ -204,5 +204,5 @@
   "FiltersPerChatSection": "独立聊天过滤器",
   "FiltersAddPerChat": "为特定聊天设置过滤器...",
   "FiltersMenuSelectChat": "选择要过滤的聊天",
-  "KeepForbiddenChats": "保留已退出和被封禁的聊天"
+  "KeepForbiddenChats": "保留已退出的聊天"
 }
