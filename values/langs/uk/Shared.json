@@ -449,5 +449,13 @@
   "IntroAbout": "Вітаю в AyuGram Desktop.\nЗробіть свій власний Telegram.",
   "AboutText1": "Клієнт Telegram з забороненим функціоналом був створений на основі {api_link}.",
   "UpdateAyuGram": "Оновити AyuGram",
-  "UtilityRestartRequired": "Додаток закриється через 5 секунд."
+  "UtilityRestartRequired": "Додаток закриється через 5 секунд.",
+  "DisableMentions": "Вимкнути згадки",
+  "EnableMentions": "Увімкнути згадки",
+  "CreationDateSelfApproximately": "Ви створили свій акаунт приблизно %1$s.",
+  "CreationDateSelfEarlier": "Ви створили свій акаунт раніше %1$s.",
+  "CreationDateSelfLater": "Ви створили свій акаунт пізніше %1$s.",
+  "CreationDateUserApproximately": "%1$s створив(ла) свій акаунт приблизно %2$s.",
+  "JoinDateSelfInChat": "Ви вступили до %1$s %2$s.",
+  "JoinDateUserInChat": "%1$s вступив(ла) до %2$s %3$s."
 }
