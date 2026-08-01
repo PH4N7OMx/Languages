@@ -58,8 +58,8 @@
   "RegexFilters": "消息过滤器",
   "RegexFiltersAmount": "过滤器",
   "RegexFiltersHeader": "过滤器",
-  "RegexFiltersShared": "共享过滤器",
-  "FiltersHideFromBlocked": "从被屏蔽的用户中隐藏",
+  "RegexFiltersShared": "全局规则与列表",
+  "FiltersHideFromBlocked": "隐藏已拉黑用户的消息",
   "FiltersHideFromBlockedNote": "消息过滤器已启用。",
   "RegexFiltersEnableSharedInChats": "在聊天中启用共享过滤器",
   "RegexFiltersAdd": "添加过滤条件",
@@ -192,5 +192,16 @@
   "CreationDateSelfLater": "您在 %1$s 之后创建了账号。",
   "CreationDateUserApproximately": "%1$s 大约在 %2$s 创建了账号。",
   "JoinDateSelfInChat": "您于 %2$s 加入了 %1$s。",
-  "JoinDateUserInChat": "%1$s 于 %3$s 加入了 %2$s。"
+  "JoinDateUserInChat": "%1$s 于 %3$s 加入了 %2$s。",
+  "FiltersGlobalSection": "全局过滤器",
+  "RegexFiltersEnable": "启用过滤器",
+  "FiltersScopeHeader": "全局过滤器应用范围",
+  "FiltersInChannels": "频道",
+  "FiltersInGroups": "群组与超级群组",
+  "FiltersInPrivate": "私聊消息",
+  "CollapseDuplicates": "折叠重复消息 (xN)",
+  "FiltersShadowBan": "悄悄拉黑列表",
+  "FiltersPerChatSection": "独立聊天过滤器",
+  "FiltersAddPerChat": "为特定聊天设置过滤器...",
+  "FiltersMenuSelectChat": "选择要过滤的聊天"
 }
