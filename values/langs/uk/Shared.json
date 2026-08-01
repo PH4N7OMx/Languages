@@ -466,5 +466,5 @@
   "CollapseDuplicates": "Згортати повтори повідомлень (xN)",
   "FiltersPerChatSection": "Фільтри окремих чатів",
   "FiltersAddPerChat": "Налаштувати фільтри для конкретного чату...",
-  "KeepForbiddenChats": "Зберігати покинені чати"
+  "KeepForbiddenChats": "Зберігати заблоковані та виключені чати"
 }

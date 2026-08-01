@@ -466,5 +466,5 @@
   "CollapseDuplicates": "折疊重複訊息 (xN)",
   "FiltersPerChatSection": "獨立聊天篩選器",
   "FiltersAddPerChat": "為特定聊天設定篩選器...",
-  "KeepForbiddenChats": "保留已退出或被封禁的聊天"
+  "KeepForbiddenChats": "保留已退出和被封禁的聊天"
 }

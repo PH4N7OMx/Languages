@@ -466,5 +466,5 @@
   "CollapseDuplicates": "Réduire les messages dupliqués (xN)",
   "FiltersPerChatSection": "Filtres par échange",
   "FiltersAddPerChat": "Configurer les filtres pour un échange spécifique...",
-  "KeepForbiddenChats": "Conserver les échanges quittés"
+  "KeepForbiddenChats": "Conserver les échanges bloqués et quittés"
 }

@@ -466,5 +466,5 @@
   "CollapseDuplicates": "Doppelte Nachrichten einklappen (xN)",
   "FiltersPerChatSection": "Filter pro Chat",
   "FiltersAddPerChat": "Filter für bestimmten Chat konfigurieren...",
-  "KeepForbiddenChats": "Verlassene Chats behalten"
+  "KeepForbiddenChats": "Gesperrte und verlassene Chats behalten"
 }

@@ -466,5 +466,5 @@
   "CollapseDuplicates": "Contraer mensajes duplicados (xN)",
   "FiltersPerChatSection": "Filtros por chat",
   "FiltersAddPerChat": "Configurar filtros para un chat específico...",
-  "KeepForbiddenChats": "Mantener chats abandonados"
+  "KeepForbiddenChats": "Conservar chats bloqueados y expulsados"
 }
