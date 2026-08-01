@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Mensajes privados",
   "CollapseDuplicates": "Contraer mensajes duplicados (xN)",
   "FiltersPerChatSection": "Filtros por chat",
-  "FiltersAddPerChat": "Configurar filtros para un chat específico..."
+  "FiltersAddPerChat": "Configurar filtros para un chat específico...",
+  "KeepForbiddenChats": "Mantener chats abandonados"
 }

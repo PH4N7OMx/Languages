@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Mesaje private",
   "CollapseDuplicates": "Restrânge mesajele duplicate (xN)",
   "FiltersPerChatSection": "Filtre per chat",
-  "FiltersAddPerChat": "Configurează filtre pentru un chat specific..."
+  "FiltersAddPerChat": "Configurează filtre pentru un chat specific...",
+  "KeepForbiddenChats": "Păstrează chaturile părăsite"
 }

@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Yksityisviestit",
   "CollapseDuplicates": "Tiivistä kaksoiskappaleviestit (xN)",
   "FiltersPerChatSection": "Kohtaiset suodattimet",
-  "FiltersAddPerChat": "Määritä suodattimet tietylle keskustelulle..."
+  "FiltersAddPerChat": "Määritä suodattimet tietylle keskustelulle...",
+  "KeepForbiddenChats": "Säilytä poistetut ryhmät"
 }

@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Ιδιωτικά μηνύματα",
   "CollapseDuplicates": "Σύμπτυξη διπλότυπων μηνυμάτων (xN)",
   "FiltersPerChatSection": "Φίλτρα ανά συνομιλία",
-  "FiltersAddPerChat": "Ρύθμιση φίλτρων για συγκεκριμένη συνομιλία..."
+  "FiltersAddPerChat": "Ρύθμιση φίλτρων για συγκεκριμένη συνομιλία...",
+  "KeepForbiddenChats": "Διατήρηση κατειλημμένων συνομιλιών"
 }

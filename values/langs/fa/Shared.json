@@ -465,5 +465,6 @@
   "FiltersInPrivate": "پیام‌های شخصی",
   "CollapseDuplicates": "جمع‌کردن پیام‌های تکراری (xN)",
   "FiltersPerChatSection": "فیلترهای هر گفتگو",
-  "FiltersAddPerChat": "تنظیم فیلترها برای گفتگوی مشخص..."
+  "FiltersAddPerChat": "تنظیم فیلترها برای گفتگوی مشخص...",
+  "KeepForbiddenChats": "نگه‌داشتن گفتگوهای ترک‌شده"
 }

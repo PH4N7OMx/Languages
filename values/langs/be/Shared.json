@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Асабістыя паведамленні",
   "CollapseDuplicates": "Згортваць паўторы паведамленняў (xN)",
   "FiltersPerChatSection": "Фільтры асобных чатаў",
-  "FiltersAddPerChat": "Наладзіць фільтры для канкрэтнага чату..."
+  "FiltersAddPerChat": "Наладзіць фільтры для канкрэтнага чату...",
+  "KeepForbiddenChats": "Захоўваць пакінутыя чаты"
 }

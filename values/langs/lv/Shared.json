@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Privātās ziņas",
   "CollapseDuplicates": "Sakļaut dublētās ziņas (xN)",
   "FiltersPerChatSection": "Filtri pa tērzēšanām",
-  "FiltersAddPerChat": "Konfigurēt filtrus konkrētai tērzēšanai..."
+  "FiltersAddPerChat": "Konfigurēt filtrus konkrētai tērzēšanai...",
+  "KeepForbiddenChats": "Saglabāt pamestās tērzēšanas"
 }

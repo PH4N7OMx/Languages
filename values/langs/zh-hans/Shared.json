@@ -465,5 +465,6 @@
   "FiltersInPrivate": "私聊消息",
   "CollapseDuplicates": "折叠重复消息 (xN)",
   "FiltersPerChatSection": "独立聊天过滤器",
-  "FiltersAddPerChat": "为特定聊天设置过滤器..."
+  "FiltersAddPerChat": "为特定聊天设置过滤器...",
+  "KeepForbiddenChats": "保留已退出或被封禁的聊天"
 }

@@ -465,5 +465,6 @@
   "FiltersInPrivate": "الرسائل الخاصة",
   "CollapseDuplicates": "طي الرسائل المكررة (xN)",
   "FiltersPerChatSection": "الفلاتر حسب المحادثة",
-  "FiltersAddPerChat": "تكوين الفلاتر لمحادثة محددة..."
+  "FiltersAddPerChat": "تكوين الفلاتر لمحادثة محددة...",
+  "KeepForbiddenChats": "الاحتفاظ بالمحادثات المغادرة"
 }

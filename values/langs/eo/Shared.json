@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Privataj mesaĝoj",
   "CollapseDuplicates": "Faldi duobligitajn mesaĝojn (xN)",
   "FiltersPerChatSection": "Filtriloj laŭ babilejo",
-  "FiltersAddPerChat": "Agordi filtrilojn por specifa babilejo..."
+  "FiltersAddPerChat": "Agordi filtrilojn por specifa babilejo...",
+  "KeepForbiddenChats": "Konservi forlasitajn babilejojn"
 }

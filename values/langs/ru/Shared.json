@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Личные сообщения",
   "CollapseDuplicates": "Сворачивать повторы сообщений (xN)",
   "FiltersPerChatSection": "Фильтры отдельных чатов",
-  "FiltersAddPerChat": "Настроить фильтры для конкретного чата..."
+  "FiltersAddPerChat": "Настроить фильтры для конкретного чата...",
+  "KeepForbiddenChats": "Сохранять покинутые чаты"
 }

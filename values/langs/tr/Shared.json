@@ -465,5 +465,6 @@
   "FiltersInPrivate": "Özel mesajlar",
   "CollapseDuplicates": "Yinelenen mesajları daralt (xN)",
   "FiltersPerChatSection": "Sohbet başına filtreler",
-  "FiltersAddPerChat": "Belirli bir sohbet için filtreleri yapılandır..."
+  "FiltersAddPerChat": "Belirli bir sohbet için filtreleri yapılandır...",
+  "KeepForbiddenChats": "Terk edilen sohbetleri koru"
 }
