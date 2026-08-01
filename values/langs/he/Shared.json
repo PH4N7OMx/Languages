@@ -450,12 +450,12 @@
   "AboutText1": "לקוח Telegram פורץ תנאים והגבלות מבוסס על {api_link}.",
   "UpdateAyuGram": "עדכן את AyuGram",
   "UtilityRestartRequired": "האפליקציה תיסגר תוך 5 שניות.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "ביטול אזכורים",
+  "EnableMentions": "הפעלת אזכורים",
+  "CreationDateSelfApproximately": "יצרת את החשבון שלך בערך ב-%1$s.",
+  "CreationDateSelfEarlier": "יצרת את החשבון שלך לפני %1$s.",
+  "CreationDateSelfLater": "יצרת את החשבון שלך אחרי %1$s.",
+  "CreationDateUserApproximately": "%1$s יצר/ה את החשבון בערך ב-%2$s.",
+  "JoinDateSelfInChat": "הצטרפת ל-%1$s ב-%2$s.",
+  "JoinDateUserInChat": "%1$s הצטרף/ה ל-%2$s ב-%3$s."
 }

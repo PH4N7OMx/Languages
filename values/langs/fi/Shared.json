@@ -450,12 +450,12 @@
   "AboutText1": "ToS-sopimuksen rikkonut Telegram-asiakasohjelma, joka perustuu {api_link} -linkkiin.",
   "UpdateAyuGram": "Päivitä AyuGram",
   "UtilityRestartRequired": "Sovellus sulkeutuu 5 sekunnin kuluttua.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Poista maininnat käytöstä",
+  "EnableMentions": "Ota maininnat käyttöön",
+  "CreationDateSelfApproximately": "Loit tilisi noin %1$s.",
+  "CreationDateSelfEarlier": "Loit tilisi ennen %1$s.",
+  "CreationDateSelfLater": "Loit tilisi %1$s jälkeen.",
+  "CreationDateUserApproximately": "%1$s loi tilinsä noin %2$s.",
+  "JoinDateSelfInChat": "Liityit ryhmään %1$s %2$s.",
+  "JoinDateUserInChat": "%1$s liittyi ryhmään %2$s %3$s."
 }

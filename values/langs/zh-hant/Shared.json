@@ -450,12 +450,12 @@
   "AboutText1": "ToS breaking Telegram client based on {api_link}.",
   "UpdateAyuGram": "更新 AyuGram",
   "UtilityRestartRequired": "The app will close in 5 seconds.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "停用提及",
+  "EnableMentions": "啟用提及",
+  "CreationDateSelfApproximately": "您大約在 %1$s 建立了帳號。",
+  "CreationDateSelfEarlier": "您在 %1$s 之前建立了帳號。",
+  "CreationDateSelfLater": "您在 %1$s 之後建立了帳號。",
+  "CreationDateUserApproximately": "%1$s 大約在 %2$s 建立了帳號。",
+  "JoinDateSelfInChat": "您於 %2$s 加入了 %1$s。",
+  "JoinDateUserInChat": "%1$s 於 %3$s 加入了 %2$s。"
 }

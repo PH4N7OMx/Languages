@@ -450,12 +450,12 @@
   "AboutText1": "基于 {api_link} 的违反 ToS 的 Telegram 客户端。",
   "UpdateAyuGram": "更新 AyuGram",
   "UtilityRestartRequired": "应用将在5秒后关闭。",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "禁用提及",
+  "EnableMentions": "启用提及",
+  "CreationDateSelfApproximately": "您大约在 %1$s 创建了账号。",
+  "CreationDateSelfEarlier": "您在 %1$s 之前创建了账号。",
+  "CreationDateSelfLater": "您在 %1$s 之后创建了账号。",
+  "CreationDateUserApproximately": "%1$s 大约在 %2$s 创建了账号。",
+  "JoinDateSelfInChat": "您于 %2$s 加入了 %1$s。",
+  "JoinDateUserInChat": "%1$s 于 %3$s 加入了 %2$s。"
 }

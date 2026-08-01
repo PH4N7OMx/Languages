@@ -450,12 +450,12 @@
   "AboutText1": "{api_link} tabanlı ToS ihlal eden Telegram istemcisi.",
   "UpdateAyuGram": "AyuGram'ı Güncelle",
   "UtilityRestartRequired": "Uygulama 5 saniye içinde kapatılacak.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Bahsetmeleri devre dışı bırak",
+  "EnableMentions": "Bahsetmeleri etkinleştir",
+  "CreationDateSelfApproximately": "Hesabınızı yaklaşık %1$s tarihinde oluşturdunuz.",
+  "CreationDateSelfEarlier": "Hesabınızı %1$s tarihinden önce oluşturdunuz.",
+  "CreationDateSelfLater": "Hesabınızı %1$s tarihinden sonra oluşturdunuz.",
+  "CreationDateUserApproximately": "%1$s hesabını yaklaşık %2$s tarihinde oluşturdu.",
+  "JoinDateSelfInChat": "%1$s grubuna %2$s tarihinde katıldınız.",
+  "JoinDateUserInChat": "%1$s, %2$s grubuna %3$s tarihinde katıldı."
 }

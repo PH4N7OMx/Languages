@@ -450,12 +450,12 @@
   "AboutText1": "ToS breaking Telegram client based on {api_link}.",
   "UpdateAyuGram": "Сног кӕн AyuGram",
   "UtilityRestartRequired": "The app will close in 5 seconds.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Радзырдтæ бааууон кæнын",
+  "EnableMentions": "Радзырдтæ сбайрын кæнын",
+  "CreationDateSelfApproximately": "Дæ аккаунт сарæзтай бæрцæй %1$s.",
+  "CreationDateSelfEarlier": "Дæ аккаунт сарæзтай раджыдæр %1$s.",
+  "CreationDateSelfLater": "Дæ аккаунт сарæзтай фæстæдæр %1$s.",
+  "CreationDateUserApproximately": "%1$s йæ аккаунт сарæзта бæрцæй %2$s.",
+  "JoinDateSelfInChat": "Ды бацыдтæ %1$s-мæ %2$s.",
+  "JoinDateUserInChat": "%1$s бацыд %2$s-мæ %3$s."
 }

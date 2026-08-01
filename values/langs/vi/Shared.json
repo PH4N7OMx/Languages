@@ -450,12 +450,12 @@
   "AboutText1": "Điều khoản Dịch vụ ToS, dựa trên {api_link}.",
   "UpdateAyuGram": "Cập nhật AyuGram",
   "UtilityRestartRequired": "Đóng ứng dụng sau 5 giây.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Tắt nhắc đến",
+  "EnableMentions": "Bật nhắc đến",
+  "CreationDateSelfApproximately": "Bạn đã tạo tài khoản vào khoảng %1$s.",
+  "CreationDateSelfEarlier": "Bạn đã tạo tài khoản trước %1$s.",
+  "CreationDateSelfLater": "Bạn đã tạo tài khoản sau %1$s.",
+  "CreationDateUserApproximately": "%1$s đã tạo tài khoản vào khoảng %2$s.",
+  "JoinDateSelfInChat": "Bạn đã tham gia %1$s vào %2$s.",
+  "JoinDateUserInChat": "%1$s đã tham gia %2$s vào %3$s."
 }

@@ -450,12 +450,12 @@
   "AboutText1": "کلاینتی تلگرامی که قانون شکن هست و مبتنی بر {api_link}.",
   "UpdateAyuGram": "بروزرسانی آیوگرام",
   "UtilityRestartRequired": "برنامه بسته میشود در 5 ثانیه دیگر.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "غیرفعال‌سازی اشاره‌ها",
+  "EnableMentions": "فعال‌سازی اشاره‌ها",
+  "CreationDateSelfApproximately": "شما حساب خود را تقربیاً در %1$s ساختید.",
+  "CreationDateSelfEarlier": "شما حساب خود را قبل از %1$s ساختید.",
+  "CreationDateSelfLater": "شما حساب خود را بعد از %1$s ساختید.",
+  "CreationDateUserApproximately": "%1$s حساب خود را تقریباً در %2$s ساخت.",
+  "JoinDateSelfInChat": "شما در %2$s به %1$s پیوستید.",
+  "JoinDateUserInChat": "%1$s در %3$s به %2$s پیوست."
 }

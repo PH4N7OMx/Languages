@@ -450,12 +450,12 @@
   "AboutText1": "Clientul Telegram încalcă ToS bazat pe {api_link}.",
   "UpdateAyuGram": "Actualizați AyuGram",
   "UtilityRestartRequired": "Aplicația se va închide în 5 secunde.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Dezactivează mențiunile",
+  "EnableMentions": "Activează mențiunile",
+  "CreationDateSelfApproximately": "Ți-ai creat contul aproximativ pe %1$s.",
+  "CreationDateSelfEarlier": "Ți-ai creat contul înainte de %1$s.",
+  "CreationDateSelfLater": "Ți-ai creat contul după %1$s.",
+  "CreationDateUserApproximately": "%1$s și-a creat contul aproximativ pe %2$s.",
+  "JoinDateSelfInChat": "Te-ai alăturat %1$s pe %2$s.",
+  "JoinDateUserInChat": "%1$s s-a alăturat %2$s pe %3$s."
 }

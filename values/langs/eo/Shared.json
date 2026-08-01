@@ -450,12 +450,12 @@
   "AboutText1": "Kliento rompanta kondiĉojn de servo, bazita sur {api_link}.",
   "UpdateAyuGram": "Ĝisdatigi Ayugram",
   "UtilityRestartRequired": "La aplikaĵo fermiĝos post 5 sekundoj.",
-  "DisableMentions": "Disable Mentions",
-  "EnableMentions": "Enable Mentions",
-  "CreationDateSelfApproximately": "You created your account approximately %1$s.",
-  "CreationDateSelfEarlier": "You created your account earlier than %1$s.",
-  "CreationDateSelfLater": "You created your account later than %1$s.",
-  "CreationDateUserApproximately": "%1$s created their account approximately %2$s.",
-  "JoinDateSelfInChat": "You joined %1$s on %2$s.",
-  "JoinDateUserInChat": "%1$s joined %2$s on %3$s."
+  "DisableMentions": "Malkapabligi menciojn",
+  "EnableMentions": "Kapabligi menciojn",
+  "CreationDateSelfApproximately": "Vi kreis vian konton proksimume la %1$s.",
+  "CreationDateSelfEarlier": "Vi kreis vian konton antaŭ la %1$s.",
+  "CreationDateSelfLater": "Vi kreis vian konton post la %1$s.",
+  "CreationDateUserApproximately": "%1$s kreis sian konton proksimume la %2$s.",
+  "JoinDateSelfInChat": "Vi aliĝis al %1$s la %2$s.",
+  "JoinDateUserInChat": "%1$s aliĝis al %2$s la %3$s."
 }
