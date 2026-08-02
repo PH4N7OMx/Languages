@@ -463,7 +463,7 @@
   "FiltersInChannels": "Canales",
   "FiltersInGroups": "Grupos y supergrupos",
   "FiltersInPrivate": "Mensajes privados",
-  "CollapseDuplicates": "Contraer mensajes duplicados (xN)",
+  "CollapseDuplicates": "Plegar repeticiones (xN)",
   "FiltersPerChatSection": "Filtros por chat",
   "FiltersAddPerChat": "Configurar filtros para un chat específico...",
   "KeepForbiddenChats": "Conservar chats abandonados",

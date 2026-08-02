@@ -199,7 +199,7 @@
   "FiltersInChannels": "频道",
   "FiltersInGroups": "群组与超级群组",
   "FiltersInPrivate": "私聊消息",
-  "CollapseDuplicates": "折叠重复消息 (xN)",
+  "CollapseDuplicates": "Collapse repeats (xN)",
   "FiltersShadowBan": "悄悄拉黑列表",
   "FiltersPerChatSection": "独立聊天过滤器",
   "FiltersAddPerChat": "为特定聊天设置过滤器...",

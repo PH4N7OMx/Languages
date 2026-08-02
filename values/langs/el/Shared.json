@@ -463,7 +463,7 @@
   "FiltersInChannels": "Κανάλια",
   "FiltersInGroups": "Ομάδες & υπερομάδες",
   "FiltersInPrivate": "Ιδιωτικά μηνύματα",
-  "CollapseDuplicates": "Σύμπτυξη διπλότυπων μηνυμάτων (xN)",
+  "CollapseDuplicates": "Collapse repeats (xN)",
   "FiltersPerChatSection": "Φίλτρα ανά συνομιλία",
   "FiltersAddPerChat": "Ρύθμιση φίλτρων για συγκεκριμένη συνομιλία...",
   "KeepForbiddenChats": "Διατήρηση κατειλημμένων συνομιλιών",

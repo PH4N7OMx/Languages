@@ -463,7 +463,7 @@
   "FiltersInChannels": "頻道",
   "FiltersInGroups": "群組與超級群組",
   "FiltersInPrivate": "私聊訊息",
-  "CollapseDuplicates": "折疊重複訊息 (xN)",
+  "CollapseDuplicates": "Collapse repeats (xN)",
   "FiltersPerChatSection": "獨立聊天篩選器",
   "FiltersAddPerChat": "為特定聊天設定篩選器...",
   "KeepForbiddenChats": "保留已退出的聊天",

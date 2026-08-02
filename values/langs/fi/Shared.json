@@ -463,7 +463,7 @@
   "FiltersInChannels": "Kanavat",
   "FiltersInGroups": "Ryhmät ja superryhmät",
   "FiltersInPrivate": "Yksityisviestit",
-  "CollapseDuplicates": "Tiivistä kaksoiskappaleviestit (xN)",
+  "CollapseDuplicates": "Collapse repeats (xN)",
   "FiltersPerChatSection": "Kohtaiset suodattimet",
   "FiltersAddPerChat": "Määritä suodattimet tietylle keskustelulle...",
   "KeepForbiddenChats": "Säilytä poistetut ryhmät",

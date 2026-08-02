@@ -463,7 +463,7 @@
   "FiltersInChannels": "کانال‌ها",
   "FiltersInGroups": "گروه‌ها و سوپرگروه‌ها",
   "FiltersInPrivate": "پیام‌های شخصی",
-  "CollapseDuplicates": "جمع‌کردن پیام‌های تکراری (xN)",
+  "CollapseDuplicates": "Collapse repeats (xN)",
   "FiltersPerChatSection": "فیلترهای هر گفتگو",
   "FiltersAddPerChat": "تنظیم فیلترها برای گفتگوی مشخص...",
   "KeepForbiddenChats": "نگه‌داشتن گفتگوهای ترک‌شده",
