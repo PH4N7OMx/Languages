@@ -466,5 +466,11 @@
   "CollapseDuplicates": "折叠重复消息 (xN)",
   "FiltersPerChatSection": "独立聊天过滤器",
   "FiltersAddPerChat": "为特定聊天设置过滤器...",
-  "KeepForbiddenChats": "保留已退出的聊天"
+  "KeepForbiddenChats": "保留已退出的聊天",
+  "MentionsMenuSoundSelect": "选择提及提示音",
+  "MentionsMenuSoundOn": "开启提及提示音",
+  "MentionsMenuSoundOff": "关闭提及提示音",
+  "MentionsMenuDurationAny": "关闭提及提醒 {duration}",
+  "MentionsMenuDuration": "关闭提及提醒...",
+  "MentionsMuteBoxTitle": "关闭提及提醒..."
 }

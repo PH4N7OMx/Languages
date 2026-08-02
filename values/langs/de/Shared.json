@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Doppelte Nachrichten einklappen (xN)",
   "FiltersPerChatSection": "Filter pro Chat",
   "FiltersAddPerChat": "Filter für bestimmten Chat konfigurieren...",
-  "KeepForbiddenChats": "Verlassene Chats behalten"
+  "KeepForbiddenChats": "Verlassene Chats behalten",
+  "MentionsMenuSoundSelect": "Erwähnungston auswählen",
+  "MentionsMenuSoundOn": "Erwähnungston einschalten",
+  "MentionsMenuSoundOff": "Erwähnungston ausschalten",
+  "MentionsMenuDurationAny": "Erwähnungen stummschalten für {duration}",
+  "MentionsMenuDuration": "Erwähnungen stummschalten für...",
+  "MentionsMuteBoxTitle": "Erwähnungen stummschalten für..."
 }

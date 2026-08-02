@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Zwijaj duplikaty wiadomości (xN)",
   "FiltersPerChatSection": "Filtry poszczególnych czatów",
   "FiltersAddPerChat": "Skonfiguruj filtry dla konkretnego czatu...",
-  "KeepForbiddenChats": "Zachowaj opuszczone czaty"
+  "KeepForbiddenChats": "Zachowaj opuszczone czaty",
+  "MentionsMenuSoundSelect": "Wybierz dźwięk wzmianek",
+  "MentionsMenuSoundOn": "Włącz dźwięk wzmianek",
+  "MentionsMenuSoundOff": "Wyłącz dźwięk wzmianek",
+  "MentionsMenuDurationAny": "Wycisz wzmianki na {duration}",
+  "MentionsMenuDuration": "Wycisz wzmianki na...",
+  "MentionsMuteBoxTitle": "Wycisz wzmianki na..."
 }

@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Згортваць паўторы паведамленняў (xN)",
   "FiltersPerChatSection": "Фільтры асобных чатаў",
   "FiltersAddPerChat": "Наладзіць фільтры для канкрэтнага чату...",
-  "KeepForbiddenChats": "Захоўваць пакінутыя чаты"
+  "KeepForbiddenChats": "Захоўваць пакінутыя чаты",
+  "MentionsMenuSoundSelect": "Выбраць гук згадак",
+  "MentionsMenuSoundOn": "Уключыць гук згадак",
+  "MentionsMenuSoundOff": "Выключыць гук згадак",
+  "MentionsMenuDurationAny": "Адключыць згадкі на {duration}",
+  "MentionsMenuDuration": "Адключыць згадкі на...",
+  "MentionsMuteBoxTitle": "Адключыць згадкі на..."
 }

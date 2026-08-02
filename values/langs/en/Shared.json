@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Collapse duplicate messages (xN)",
   "FiltersPerChatSection": "Per-chat filters",
   "FiltersAddPerChat": "Configure filters for specific chat...",
-  "KeepForbiddenChats": "Keep Left Chats"
+  "KeepForbiddenChats": "Keep Left Chats",
+  "MentionsMenuSoundSelect": "Select mention sound",
+  "MentionsMenuSoundOn": "Turn mention sound on",
+  "MentionsMenuSoundOff": "Turn mention sound off",
+  "MentionsMenuDurationAny": "Turn off mentions for {duration}",
+  "MentionsMenuDuration": "Turn off mentions for...",
+  "MentionsMuteBoxTitle": "Turn off mentions for..."
 }

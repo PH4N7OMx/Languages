@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Tiivistä kaksoiskappaleviestit (xN)",
   "FiltersPerChatSection": "Kohtaiset suodattimet",
   "FiltersAddPerChat": "Määritä suodattimet tietylle keskustelulle...",
-  "KeepForbiddenChats": "Säilytä poistetut ryhmät"
+  "KeepForbiddenChats": "Säilytä poistetut ryhmät",
+  "MentionsMenuSoundSelect": "Valitse mainintojen ääni",
+  "MentionsMenuSoundOn": "Ota mainintojen ääni käyttöön",
+  "MentionsMenuSoundOff": "Poista mainintojen ääni käytöstä",
+  "MentionsMenuDurationAny": "Mykistä maininnat ajaksi {duration}",
+  "MentionsMenuDuration": "Mykistä maininnat ajaksi...",
+  "MentionsMuteBoxTitle": "Mykistä maininnat ajaksi..."
 }

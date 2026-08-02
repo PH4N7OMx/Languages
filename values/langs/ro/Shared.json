@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Restrânge mesajele duplicate (xN)",
   "FiltersPerChatSection": "Filtre per chat",
   "FiltersAddPerChat": "Configurează filtre pentru un chat specific...",
-  "KeepForbiddenChats": "Păstrează chaturile părăsite"
+  "KeepForbiddenChats": "Păstrează chaturile părăsite",
+  "MentionsMenuSoundSelect": "Selectează sunetul mențiunilor",
+  "MentionsMenuSoundOn": "Activează sunetul mențiunilor",
+  "MentionsMenuSoundOff": "Dezactivează sunetul mențiunilor",
+  "MentionsMenuDurationAny": "Mutează mențiunile pentru {duration}",
+  "MentionsMenuDuration": "Mutează mențiunile pentru...",
+  "MentionsMuteBoxTitle": "Mutează mențiunile pentru..."
 }

@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Faldi duobligitajn mesaĝojn (xN)",
   "FiltersPerChatSection": "Filtriloj laŭ babilejo",
   "FiltersAddPerChat": "Agordi filtrilojn por specifa babilejo...",
-  "KeepForbiddenChats": "Konservi forlasitajn babilejojn"
+  "KeepForbiddenChats": "Konservi forlasitajn babilejojn",
+  "MentionsMenuSoundSelect": "Elekti sonon de mencioj",
+  "MentionsMenuSoundOn": "Ŝalti sonon de mencioj",
+  "MentionsMenuSoundOff": "Malŝalti sonon de mencioj",
+  "MentionsMenuDurationAny": "Silentigi menciojn dum {duration}",
+  "MentionsMenuDuration": "Silentigi menciojn dum...",
+  "MentionsMuteBoxTitle": "Silentigi menciojn dum..."
 }

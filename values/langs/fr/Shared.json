@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Réduire les messages dupliqués (xN)",
   "FiltersPerChatSection": "Filtres par échange",
   "FiltersAddPerChat": "Configurer les filtres pour un échange spécifique...",
-  "KeepForbiddenChats": "Conserver les échanges quittés"
+  "KeepForbiddenChats": "Conserver les échanges quittés",
+  "MentionsMenuSoundSelect": "Choisir le son des mentions",
+  "MentionsMenuSoundOn": "Activer le son des mentions",
+  "MentionsMenuSoundOff": "Désactiver le son des mentions",
+  "MentionsMenuDurationAny": "Masquer les mentions pendant {duration}",
+  "MentionsMenuDuration": "Masquer les mentions pendant...",
+  "MentionsMuteBoxTitle": "Masquer les mentions pendant..."
 }

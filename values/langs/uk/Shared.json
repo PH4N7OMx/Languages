@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Згортати повтори повідомлень (xN)",
   "FiltersPerChatSection": "Фільтри окремих чатів",
   "FiltersAddPerChat": "Налаштувати фільтри для конкретного чату...",
-  "KeepForbiddenChats": "Зберігати покинуті чати"
+  "KeepForbiddenChats": "Зберігати покинуті чати",
+  "MentionsMenuSoundSelect": "Обрати звук згадок",
+  "MentionsMenuSoundOn": "Увімкнути звук згадок",
+  "MentionsMenuSoundOff": "Вимкнути звук згадок",
+  "MentionsMenuDurationAny": "Вимкнути згадки на {duration}",
+  "MentionsMenuDuration": "Вимкнути згадки на...",
+  "MentionsMuteBoxTitle": "Вимкнути згадки на..."
 }

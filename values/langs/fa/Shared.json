@@ -466,5 +466,11 @@
   "CollapseDuplicates": "جمع‌کردن پیام‌های تکراری (xN)",
   "FiltersPerChatSection": "فیلترهای هر گفتگو",
   "FiltersAddPerChat": "تنظیم فیلترها برای گفتگوی مشخص...",
-  "KeepForbiddenChats": "نگه‌داشتن گفتگوهای ترک‌شده"
+  "KeepForbiddenChats": "نگه‌داشتن گفتگوهای ترک‌شده",
+  "MentionsMenuSoundSelect": "انتخاب صدای منشن‌ها",
+  "MentionsMenuSoundOn": "روشن کردن صدای منشن‌ها",
+  "MentionsMenuSoundOff": "خاموش کردن صدای منشن‌ها",
+  "MentionsMenuDurationAny": "خاموش کردن منشن‌ها به مدت {duration}",
+  "MentionsMenuDuration": "خاموش کردن منشن‌ها به مدت...",
+  "MentionsMuteBoxTitle": "خاموش کردن منشن‌ها به مدت..."
 }

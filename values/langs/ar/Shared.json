@@ -466,5 +466,11 @@
   "CollapseDuplicates": "طي الرسائل المكررة (xN)",
   "FiltersPerChatSection": "الفلاتر حسب المحادثة",
   "FiltersAddPerChat": "تكوين الفلاتر لمحادثة محددة...",
-  "KeepForbiddenChats": "الاحتفاظ بالمحادثات المغادرة"
+  "KeepForbiddenChats": "الاحتفاظ بالمحادثات المغادرة",
+  "MentionsMenuSoundSelect": "تحديد صوت الإشارات",
+  "MentionsMenuSoundOn": "تشغيل صوت الإشارات",
+  "MentionsMenuSoundOff": "إيقاف صوت الإشارات",
+  "MentionsMenuDurationAny": "كتم الإشارات لمدة {duration}",
+  "MentionsMenuDuration": "كتم الإشارات لمدة...",
+  "MentionsMuteBoxTitle": "كتم الإشارات لمدة..."
 }

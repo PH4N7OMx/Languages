@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Thu gọn tin nhắn trùng lặp (xN)",
   "FiltersPerChatSection": "Bộ lọc theo trò chuyện",
   "FiltersAddPerChat": "Cấu hình bộ lọc cho trò chuyện cụ thể...",
-  "KeepForbiddenChats": "Giữ các trò chuyện đã rời"
+  "KeepForbiddenChats": "Giữ các trò chuyện đã rời",
+  "MentionsMenuSoundSelect": "Chọn âm thanh nhắc đến",
+  "MentionsMenuSoundOn": "Bật âm thanh nhắc đến",
+  "MentionsMenuSoundOff": "Tắt âm thanh nhắc đến",
+  "MentionsMenuDurationAny": "Tắt thông báo nhắc đến trong {duration}",
+  "MentionsMenuDuration": "Tắt thông báo nhắc đến trong...",
+  "MentionsMuteBoxTitle": "Tắt thông báo nhắc đến trong..."
 }

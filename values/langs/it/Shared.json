@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Raggruppa messaggi duplicati (xN)",
   "FiltersPerChatSection": "Filtri per chat",
   "FiltersAddPerChat": "Configura filtri per una chat specifica...",
-  "KeepForbiddenChats": "Mantieni chat abbandonate"
+  "KeepForbiddenChats": "Mantieni chat abbandonate",
+  "MentionsMenuSoundSelect": "Seleziona suono menzioni",
+  "MentionsMenuSoundOn": "Attiva suono menzioni",
+  "MentionsMenuSoundOff": "Disattiva suono menzioni",
+  "MentionsMenuDurationAny": "Silenzia menzioni per {duration}",
+  "MentionsMenuDuration": "Silenzia menzioni per...",
+  "MentionsMuteBoxTitle": "Silenzia menzioni per..."
 }

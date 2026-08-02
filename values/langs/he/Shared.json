@@ -466,5 +466,11 @@
   "CollapseDuplicates": "צמצום הודעות כפולות (xN)",
   "FiltersPerChatSection": "מסננים לפי צ'אט",
   "FiltersAddPerChat": "הגדרת מסננים לצ'אט ספציפי...",
-  "KeepForbiddenChats": "שמירת צ'אטים שננטשו"
+  "KeepForbiddenChats": "שמירת צ'אטים שננטשו",
+  "MentionsMenuSoundSelect": "בחירת צליל אזכורים",
+  "MentionsMenuSoundOn": "הפעלת צליל אזכורים",
+  "MentionsMenuSoundOff": "ביטול צליל אזכורים",
+  "MentionsMenuDurationAny": "השתקת אזכורים למשך {duration}",
+  "MentionsMenuDuration": "השתקת אזכורים למשך...",
+  "MentionsMuteBoxTitle": "השתקת אזכורים למשך..."
 }

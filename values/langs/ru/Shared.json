@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Сворачивать повторы сообщений (xN)",
   "FiltersPerChatSection": "Фильтры отдельных чатов",
   "FiltersAddPerChat": "Настроить фильтры для конкретного чата...",
-  "KeepForbiddenChats": "Сохранять покинутые чаты"
+  "KeepForbiddenChats": "Сохранять покинутые чаты",
+  "MentionsMenuSoundSelect": "Выбрать звук упоминаний",
+  "MentionsMenuSoundOn": "Включить звук упоминаний",
+  "MentionsMenuSoundOff": "Выключить звук упоминаний",
+  "MentionsMenuDurationAny": "Отключить упоминания на {duration}",
+  "MentionsMenuDuration": "Отключить упоминания на...",
+  "MentionsMuteBoxTitle": "Отключить упоминания на..."
 }

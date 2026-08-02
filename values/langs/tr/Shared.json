@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Yinelenen mesajları daralt (xN)",
   "FiltersPerChatSection": "Sohbet başına filtreler",
   "FiltersAddPerChat": "Belirli bir sohbet için filtreleri yapılandır...",
-  "KeepForbiddenChats": "Terk edilen sohbetleri koru"
+  "KeepForbiddenChats": "Terk edilen sohbetleri koru",
+  "MentionsMenuSoundSelect": "Bahsedilme sesini seç",
+  "MentionsMenuSoundOn": "Bahsedilme sesini aç",
+  "MentionsMenuSoundOff": "Bahsedilme sesini kapat",
+  "MentionsMenuDurationAny": "Bahsedilmeleri {duration} sessize al",
+  "MentionsMenuDuration": "Bahsedilmeleri sessize al...",
+  "MentionsMuteBoxTitle": "Bahsedilmeleri sessize al..."
 }

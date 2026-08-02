@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Sakļaut dublētās ziņas (xN)",
   "FiltersPerChatSection": "Filtri pa tērzēšanām",
   "FiltersAddPerChat": "Konfigurēt filtrus konkrētai tērzēšanai...",
-  "KeepForbiddenChats": "Saglabāt pamestās tērzēšanas"
+  "KeepForbiddenChats": "Saglabāt pamestās tērzēšanas",
+  "MentionsMenuSoundSelect": "Izvēlēties pieminējumu skaņu",
+  "MentionsMenuSoundOn": "Ieslēgt pieminējumu skaņu",
+  "MentionsMenuSoundOff": "Izslēgt pieminējumu skaņu",
+  "MentionsMenuDurationAny": "Izslēgt pieminējumus uz {duration}",
+  "MentionsMenuDuration": "Izslēgt pieminējumus uz...",
+  "MentionsMuteBoxTitle": "Izslēgt pieminējumus uz..."
 }

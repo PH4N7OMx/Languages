@@ -466,5 +466,11 @@
   "CollapseDuplicates": "Σύμπτυξη διπλότυπων μηνυμάτων (xN)",
   "FiltersPerChatSection": "Φίλτρα ανά συνομιλία",
   "FiltersAddPerChat": "Ρύθμιση φίλτρων για συγκεκριμένη συνομιλία...",
-  "KeepForbiddenChats": "Διατήρηση κατειλημμένων συνομιλιών"
+  "KeepForbiddenChats": "Διατήρηση κατειλημμένων συνομιλιών",
+  "MentionsMenuSoundSelect": "Επιλογή ήχου αναφορών",
+  "MentionsMenuSoundOn": "Ενεργοποίηση ήχου αναφορών",
+  "MentionsMenuSoundOff": "Απενεργοποίηση ήχου αναφορών",
+  "MentionsMenuDurationAny": "Σίγαση αναφορών για {duration}",
+  "MentionsMenuDuration": "Σίγαση αναφορών για...",
+  "MentionsMuteBoxTitle": "Σίγαση αναφορών για..."
 }
