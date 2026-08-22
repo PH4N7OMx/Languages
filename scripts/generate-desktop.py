@@ -49,14 +49,19 @@ for k, v in strings.items():
     elif k.endswith('_other'):
         k = k.replace('_other', '#other')
 
+    is_plural = '#one' in k or '#other' in k
+
     if '%1$d' in v and not '%2$d' in v:
-        v = v.replace('%1$d', '{count}')
+        v = v.replace('%1$d', '{count}' if is_plural else '{count1}')
     elif '%1$d' in v and '%2$d' in v:
         v = v.replace('%1$d', '{count1}').replace('%2$d', '{count2}')
     elif '%1$s' in v and not '%2$s' in v:
         v = v.replace('%1$s', '{item}')
     elif '%1$s' in v and '%2$s' in v:
         v = v.replace('%1$s', '{item1}').replace('%2$s', '{item2}')
+
+    if not is_plural and '{count}' in v:
+        v = v.replace('{count}', '{count1}')
 
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
