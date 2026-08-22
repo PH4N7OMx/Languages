@@ -32,6 +32,7 @@ data += '''
 
 '''
 
+desktop_strings = {}
 for k, v in strings.items():
     if k.endswith('_Android'):
         continue
@@ -63,6 +64,9 @@ for k, v in strings.items():
     if not is_plural and '{count}' in v:
         v = v.replace('{count}', '{count1}')
 
+    desktop_strings[k] = v
+
+for k, v in desktop_strings.items():
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
 
