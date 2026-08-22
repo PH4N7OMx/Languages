@@ -7,7 +7,8 @@ import os.path
 
 mappings = {
     'zh-hans': 'zh-rCN',
-    'zh-hant': 'zh-rTW'
+    'zh-hant': 'zh-rTW',
+    'he': 'iw'
 }
 
 if not os.path.exists('./values'):
@@ -32,10 +33,13 @@ for lang in langs:
         if k + '_Android' in strings:
             continue
 
+        if k.endswith('_PC') or k.endswith('_Desktop'):
+            continue
+
         if k.endswith('_Android'):
             k = k.replace('_Android', '')
 
-        if k == 'HideAllChats':
+        if k == 'HideAllChats' or k == 'TranslationProvider':
             continue
 
         string = et.SubElement(root, 'string', {'name': k})
