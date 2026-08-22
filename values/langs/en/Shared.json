@@ -478,6 +478,7 @@
   "FiltersInGroups": "Groups & Supergroups",
   "FiltersInPrivate": "Private Chats",
   "CollapseDuplicates": "Collapse repeats (xN)",
+  "DeleteAllDuplicates": "Delete all duplicates",
   "FiltersPerChatSection": "Per-chat filters",
   "FiltersAddPerChat": "Configure filters for specific chat...",
   "KeepForbiddenChats": "Keep Left Chats",
