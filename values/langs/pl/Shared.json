@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Wyłącz dźwięk wzmianek",
   "MentionsMenuDurationAny": "Wycisz wzmianki na {duration}",
   "MentionsMenuDuration": "Wycisz wzmianki na...",
-  "MentionsMuteBoxTitle": "Wycisz wzmianki na..."
+  "MentionsMuteBoxTitle": "Wycisz wzmianki na...",
+  "LoadBlockedAvatars": "Wczytuj awatary przez t.me",
+  "LoadBlockedAvatarsDescription": "Pozwala zobaczyć zdjęcia profilowe użytkowników, którzy cię zablokowali, jeśli mają nazwę użytkownika.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Subskrybuj nasz oficjalny kanał na Telegramie, aby być na bieżąco z aktualizacjami!",
+  "ChannelPromoSubscribe": "Subskrybuj",
+  "ChannelPromoLater": "Później"
 }

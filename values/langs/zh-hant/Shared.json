@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "關閉提及提示音",
   "MentionsMenuDurationAny": "關閉提及提醒 {duration}",
   "MentionsMenuDuration": "關閉提及提醒...",
-  "MentionsMuteBoxTitle": "關閉提及提醒..."
+  "MentionsMuteBoxTitle": "關閉提及提醒...",
+  "LoadBlockedAvatars": "透過 t.me 載入頭像",
+  "LoadBlockedAvatarsDescription": "允許您查看封鎖您的使用者的個人資料照片（如果他們有公開使用者名稱）。",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "訂閱我們的 Telegram 官方頻道以獲取最新消息和更新！",
+  "ChannelPromoSubscribe": "訂閱",
+  "ChannelPromoLater": "稍後"
 }

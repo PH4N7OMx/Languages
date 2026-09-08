@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Poista mainintojen ääni käytöstä",
   "MentionsMenuDurationAny": "Mykistä maininnat ajaksi {duration}",
   "MentionsMenuDuration": "Mykistä maininnat ajaksi...",
-  "MentionsMuteBoxTitle": "Mykistä maininnat ajaksi..."
+  "MentionsMuteBoxTitle": "Mykistä maininnat ajaksi...",
+  "LoadBlockedAvatars": "Lataa profiilikuvat t.me-palvelusta",
+  "LoadBlockedAvatarsDescription": "Näyttää sinut estäneiden käyttäjien profiilikuvat, jos heillä on julkinen käyttäjänimi.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Tilaa virallinen Telegram-kanavamme pysyäksesi ajan tasalla uutisista ja päivityksistä!",
+  "ChannelPromoSubscribe": "Tilaa",
+  "ChannelPromoLater": "Myöhemmin"
 }

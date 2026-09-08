@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Вимкнути звук згадок",
   "MentionsMenuDurationAny": "Вимкнути згадки на {duration}",
   "MentionsMenuDuration": "Вимкнути згадки на...",
-  "MentionsMuteBoxTitle": "Вимкнути згадки на..."
+  "MentionsMuteBoxTitle": "Вимкнути згадки на...",
+  "LoadBlockedAvatars": "Завантажувати аватарки через t.me",
+  "LoadBlockedAvatarsDescription": "Дозволяє бачити аватарки користувачів, які вас заблокували (за наявності у них юзернейма).",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Підпишіться на наш офіційний Telegram-канал, щоб бути в курсі новин та оновлень!",
+  "ChannelPromoSubscribe": "Підписатися",
+  "ChannelPromoLater": "Пізніше"
 }

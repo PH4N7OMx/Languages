@@ -489,5 +489,9 @@
   "MentionsMenuDuration": "Turn off mentions for...",
   "MentionsMuteBoxTitle": "Turn off mentions for...",
   "LoadBlockedAvatars": "Load Avatars via t.me",
-  "LoadBlockedAvatarsDescription": "Allows you to see profile pictures of users who blocked you, if they have a public username."
+  "LoadBlockedAvatarsDescription": "Allows you to see profile pictures of users who blocked you, if they have a public username.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Subscribe to our official Telegram channel for updates and announcements!",
+  "ChannelPromoSubscribe": "Subscribe",
+  "ChannelPromoLater": "Later"
 }

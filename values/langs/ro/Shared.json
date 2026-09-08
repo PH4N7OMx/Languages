@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Dezactivează sunetul mențiunilor",
   "MentionsMenuDurationAny": "Mutează mențiunile pentru {duration}",
   "MentionsMenuDuration": "Mutează mențiunile pentru...",
-  "MentionsMuteBoxTitle": "Mutează mențiunile pentru..."
+  "MentionsMuteBoxTitle": "Mutează mențiunile pentru...",
+  "LoadBlockedAvatars": "Încarcă imaginile de profil prin t.me",
+  "LoadBlockedAvatarsDescription": "Permite vizualizarea imaginilor de profil ale utilizatorilor care te-au blocat, dacă au un nume de utilizator public.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Abonează-te la canalul nostru oficial de Telegram pentru noutăți și actualizări!",
+  "ChannelPromoSubscribe": "Abonează-te",
+  "ChannelPromoLater": "Mai târziu"
 }

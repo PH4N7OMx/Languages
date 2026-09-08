@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Bahsedilme sesini kapat",
   "MentionsMenuDurationAny": "Bahsedilmeleri {duration} sessize al",
   "MentionsMenuDuration": "Bahsedilmeleri sessize al...",
-  "MentionsMuteBoxTitle": "Bahsedilmeleri sessize al..."
+  "MentionsMuteBoxTitle": "Bahsedilmeleri sessize al...",
+  "LoadBlockedAvatars": "Profil resimlerini t.me üzerinden yükle",
+  "LoadBlockedAvatarsDescription": "Kullanıcı adı olan ve sizi engelleyen kullanıcıların profil resimlerini görmenizi sağlar.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Haberler ve güncellemeler için resmi Telegram kanalımıza abone olun!",
+  "ChannelPromoSubscribe": "Abone Ol",
+  "ChannelPromoLater": "Daha Sonra"
 }

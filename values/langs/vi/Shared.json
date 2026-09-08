@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Tắt âm thanh nhắc đến",
   "MentionsMenuDurationAny": "Tắt thông báo nhắc đến trong {duration}",
   "MentionsMenuDuration": "Tắt thông báo nhắc đến trong...",
-  "MentionsMuteBoxTitle": "Tắt thông báo nhắc đến trong..."
+  "MentionsMuteBoxTitle": "Tắt thông báo nhắc đến trong...",
+  "LoadBlockedAvatars": "Tải ảnh đại diện qua t.me",
+  "LoadBlockedAvatarsDescription": "Cho phép bạn xem ảnh đại diện của người dùng đã chặn bạn nếu họ có tên người dùng công khai.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Đăng ký kênh Telegram chính thức của chúng tôi để cập nhật tin tức và thông báo mới nhất!",
+  "ChannelPromoSubscribe": "Đăng ký",
+  "ChannelPromoLater": "Để sau"
 }

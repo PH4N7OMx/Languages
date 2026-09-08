@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "خاموش کردن صدای منشن‌ها",
   "MentionsMenuDurationAny": "خاموش کردن منشن‌ها به مدت {duration}",
   "MentionsMenuDuration": "خاموش کردن منشن‌ها به مدت...",
-  "MentionsMuteBoxTitle": "خاموش کردن منشن‌ها به مدت..."
+  "MentionsMuteBoxTitle": "خاموش کردن منشن‌ها به مدت...",
+  "LoadBlockedAvatars": "بارگیری عکسهای پروفایل از طریق t.me",
+  "LoadBlockedAvatarsDescription": "به شما امکان میدهد عکسهای پروفایل کاربرانی که شما را مسدود کردهاند را در صورت داشتن نام کاربری عمومی مشاهده کنید.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "برای اطلاع از اخبار و بهروزرسانیها در کانال رسمی تلگرام ما عضو شوید!",
+  "ChannelPromoSubscribe": "عضویت",
+  "ChannelPromoLater": "بعداً"
 }

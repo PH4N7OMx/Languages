@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "Malŝalti sonon de mencioj",
   "MentionsMenuDurationAny": "Silentigi menciojn dum {duration}",
   "MentionsMenuDuration": "Silentigi menciojn dum...",
-  "MentionsMuteBoxTitle": "Silentigi menciojn dum..."
+  "MentionsMuteBoxTitle": "Silentigi menciojn dum...",
+  "LoadBlockedAvatars": "Ŝargi profilbildojn per t.me",
+  "LoadBlockedAvatarsDescription": "Ebligas vidi profilbildojn de uzantoj, kiuj blokis vin, se ili havas publikan uzantnomon.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "Abonu nian oficialan Telegram-kanalon por novaĵoj kaj ĝisdatigoj!",
+  "ChannelPromoSubscribe": "Aboni",
+  "ChannelPromoLater": "Poste"
 }

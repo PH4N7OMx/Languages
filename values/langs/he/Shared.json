@@ -472,5 +472,11 @@
   "MentionsMenuSoundOff": "ביטול צליל אזכורים",
   "MentionsMenuDurationAny": "השתקת אזכורים למשך {duration}",
   "MentionsMenuDuration": "השתקת אזכורים למשך...",
-  "MentionsMuteBoxTitle": "השתקת אזכורים למשך..."
+  "MentionsMuteBoxTitle": "השתקת אזכורים למשך...",
+  "LoadBlockedAvatars": "טען תמונות פרופיל דרך t.me",
+  "LoadBlockedAvatarsDescription": "מאפשר לראות תמונות פרופיל של משתמשים שחסמו אותך, אם יש להם שם משתמש ציבורי.",
+  "ChannelPromoTitle": "AyuGram Fork",
+  "ChannelPromoText": "הירשם לערוץ הטלגרם הרשמי שלנו לעדכונים וחדשות!",
+  "ChannelPromoSubscribe": "הירשם",
+  "ChannelPromoLater": "מאוחר יותר"
 }
