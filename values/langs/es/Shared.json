@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Silenciar menciones por {duration}",
   "MentionsMenuDuration": "Silenciar menciones por...",
   "MentionsMuteBoxTitle": "Silenciar menciones por...",
-  "LoadBlockedAvatars": "Cargar fotos de perfil mediante t.me",
+  "LoadBlockedAvatars": "Cargar fotos de perfil de usuarios bloqueados",
   "LoadBlockedAvatarsDescription": "Permite ver las fotos de perfil de usuarios que te han bloqueado si tienen un nombre de usuario público.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "¡Suscríbete a nuestro canal oficial de Telegram para recibir noticias y actualizaciones!",

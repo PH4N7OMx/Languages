@@ -151,92 +151,100 @@ PROMO_STRINGS = {
 }
 
 BLOCKED_AVATARS_STRINGS = {
+    "en": {
+        "LoadBlockedAvatars": "Load Avatars of Blocked Users",
+        "LoadBlockedAvatarsDescription": "Allows you to see profile pictures of users who blocked you, if they have a public username.",
+    },
+    "ru": {
+        "LoadBlockedAvatars": "Загружать аватарки заблокированных пользователей",
+        "LoadBlockedAvatarsDescription": "Позволяет видеть аватарки пользователей, которые вас заблокировали (при наличии у них юзернейма).",
+    },
     "uk": {
-        "LoadBlockedAvatars": "Завантажувати аватарки через t.me",
+        "LoadBlockedAvatars": "Завантажувати аватарки заблокованих користувачів",
         "LoadBlockedAvatarsDescription": "Дозволяє бачити аватарки користувачів, які вас заблокували (за наявності у них юзернейма).",
     },
     "be": {
-        "LoadBlockedAvatars": "Загружаць аватаркі праз t.me",
+        "LoadBlockedAvatars": "Загружаць аватаркі заблакаваных карыстальнікаў",
         "LoadBlockedAvatarsDescription": "Дазваляе бачыць аватаркі карыстальнікаў, якія вас заблакавалі (пры наяўнасці ў іх юзернэйма).",
     },
     "de": {
-        "LoadBlockedAvatars": "Profilbilder über t.me laden",
+        "LoadBlockedAvatars": "Profilbilder von blockierten Benutzern laden",
         "LoadBlockedAvatarsDescription": "Ermöglicht das Anzeigen von Profilbildern von Benutzern, die Sie blockiert haben, sofern sie einen Benutzernamen haben.",
     },
     "es": {
-        "LoadBlockedAvatars": "Cargar fotos de perfil mediante t.me",
+        "LoadBlockedAvatars": "Cargar fotos de perfil de usuarios bloqueados",
         "LoadBlockedAvatarsDescription": "Permite ver las fotos de perfil de usuarios que te han bloqueado si tienen un nombre de usuario público.",
     },
     "fr": {
-        "LoadBlockedAvatars": "Charger les photos de profil via t.me",
+        "LoadBlockedAvatars": "Charger les photos de profil des utilisateurs bloqués",
         "LoadBlockedAvatarsDescription": "Permet d'afficher les photos de profil des utilisateurs qui vous ont bloqué, s'ils ont un nom d'utilisateur public.",
     },
     "it": {
-        "LoadBlockedAvatars": "Carica foto profilo tramite t.me",
+        "LoadBlockedAvatars": "Carica foto profilo degli utenti bloccati",
         "LoadBlockedAvatarsDescription": "Consente di vedere le foto profilo degli utenti che ti hanno bloccato, se hanno un nome utente pubblico.",
     },
     "pt": {
-        "LoadBlockedAvatars": "Carregar fotos de perfil via t.me",
+        "LoadBlockedAvatars": "Carregar fotos de perfil de usuários bloqueados",
         "LoadBlockedAvatarsDescription": "Permite ver fotos de perfil de usuários que bloquearam você, se eles tiverem um nome de usuário público.",
     },
     "pl": {
-        "LoadBlockedAvatars": "Wczytuj awatary przez t.me",
+        "LoadBlockedAvatars": "Wczytuj awatary zablokowanych użytkowników",
         "LoadBlockedAvatarsDescription": "Pozwala zobaczyć zdjęcia profilowe użytkowników, którzy cię zablokowali, jeśli mają nazwę użytkownika.",
     },
     "tr": {
-        "LoadBlockedAvatars": "Profil resimlerini t.me üzerinden yükle",
+        "LoadBlockedAvatars": "Engellenen kullanıcıların profil resimlerini yükle",
         "LoadBlockedAvatarsDescription": "Kullanıcı adı olan ve sizi engelleyen kullanıcıların profil resimlerini görmenizi sağlar.",
     },
     "ar": {
-        "LoadBlockedAvatars": "تحميل الصور الشخصية عبر t.me",
+        "LoadBlockedAvatars": "تحميل الصور الشخصية للمستخدمين المحظورين",
         "LoadBlockedAvatarsDescription": "يتيح لك رؤية الصور الشخصية للمستخدمين الذين قاموا بحظرك، إذا كان لديهم اسم مستخدم عام.",
     },
     "fa": {
-        "LoadBlockedAvatars": "بارگیری عکسهای پروفایل از طریق t.me",
-        "LoadBlockedAvatarsDescription": "به شما امکان میدهد عکسهای پروفایل کاربرانی که شما را مسدود کردهاند را در صورت داشتن نام کاربری عمومی مشاهده کنید.",
+        "LoadBlockedAvatars": "بارگیری عکس‌های پروفایل کاربران مسدود شده",
+        "LoadBlockedAvatarsDescription": "به شما امکان می‌دهد عکس‌های پروفایل کاربرانی که شما را مسدود کرده‌اند را در صورت داشتن نام کاربری عمومی مشاهده کنید.",
     },
     "he": {
-        "LoadBlockedAvatars": "טען תמונות פרופיל דרך t.me",
+        "LoadBlockedAvatars": "טען תמונות פרופיל של משתמשים חסומים",
         "LoadBlockedAvatarsDescription": "מאפשר לראות תמונות פרופיל של משתמשים שחסמו אותך, אם יש להם שם משתמש ציבורי.",
     },
     "el": {
-        "LoadBlockedAvatars": "Φόρτωση εικόνων προφίλ μέσω t.me",
+        "LoadBlockedAvatars": "Φόρτωση εικόνων προφίλ αποκλεισμένων χρηστών",
         "LoadBlockedAvatarsDescription": "Σας επιτρέπει να βλέπετε τις εικόνες προφίλ χρηστών που σας έχουν αποκλείσει, εάν έχουν δημόσιο όνομα χρήστη.",
     },
     "ro": {
-        "LoadBlockedAvatars": "Încarcă imaginile de profil prin t.me",
+        "LoadBlockedAvatars": "Încarcă imaginile de profil ale utilizatorilor blocați",
         "LoadBlockedAvatarsDescription": "Permite vizualizarea imaginilor de profil ale utilizatorilor care te-au blocat, dacă au un nume de utilizator public.",
     },
     "fi": {
-        "LoadBlockedAvatars": "Lataa profiilikuvat t.me-palvelusta",
+        "LoadBlockedAvatars": "Lataa estettyjen käyttäjien profiilikuvat",
         "LoadBlockedAvatarsDescription": "Näyttää sinut estäneiden käyttäjien profiilikuvat, jos heillä on julkinen käyttäjänimi.",
     },
     "lv": {
-        "LoadBlockedAvatars": "Ielādēt profila attēlus caur t.me",
+        "LoadBlockedAvatars": "Ielādēt bloķēto lietotāju profila attēlus",
         "LoadBlockedAvatarsDescription": "Ļauj redzēt to lietotāju profila attēlus, kuri jūs bloķējuši, ja viņiem ir publisks lietotājvārds.",
     },
     "vi": {
-        "LoadBlockedAvatars": "Tải ảnh đại diện qua t.me",
+        "LoadBlockedAvatars": "Tải ảnh đại diện của người dùng bị chặn",
         "LoadBlockedAvatarsDescription": "Cho phép bạn xem ảnh đại diện của người dùng đã chặn bạn nếu họ có tên người dùng công khai.",
     },
     "zh": {
-        "LoadBlockedAvatars": "通过 t.me 加载头像",
+        "LoadBlockedAvatars": "加载已拉黑用户的头像",
         "LoadBlockedAvatarsDescription": "允许您查看拉黑您的用户的个人资料照片（如果他们有公开用户名）。",
     },
     "zh-hans": {
-        "LoadBlockedAvatars": "通过 t.me 加载头像",
+        "LoadBlockedAvatars": "加载已拉黑用户的头像",
         "LoadBlockedAvatarsDescription": "允许您查看拉黑您的用户的个人资料照片（如果他们有公开用户名）。",
     },
     "zh-hant": {
-        "LoadBlockedAvatars": "透過 t.me 載入頭像",
+        "LoadBlockedAvatars": "載入已封鎖使用者的頭像",
         "LoadBlockedAvatarsDescription": "允許您查看封鎖您的使用者的個人資料照片（如果他們有公開使用者名稱）。",
     },
     "eo": {
-        "LoadBlockedAvatars": "Ŝargi profilbildojn per t.me",
+        "LoadBlockedAvatars": "Ŝargi profilbildojn de blokitaj uzantoj",
         "LoadBlockedAvatarsDescription": "Ebligas vidi profilbildojn de uzantoj, kiuj blokis vin, se ili havas publikan uzantnomon.",
     },
     "os": {
-        "LoadBlockedAvatars": "Аватаркæтæ æвгæнын t.me уылты",
+        "LoadBlockedAvatars": "Сæхгæд пайдагæнджыты аватаркæтæ æвгæнын",
         "LoadBlockedAvatarsDescription": "Дæтты бар уынын уыцы пайдагæнджыты аватаркæтæ, кæцытæ дæ сæхгæдтой (кæд сæм ис юзернейм).",
     },
 }
@@ -258,14 +266,10 @@ def main():
         with open(shared_json_path, "r", encoding="utf-8") as f:
             data = json.load(f)
             
-        # 1. Add blocked avatars keys if not en or ru
-        if lang not in ("en", "ru"):
-            assert lang in BLOCKED_AVATARS_STRINGS, f"Missing blocked avatar translations for {lang}"
-            data["LoadBlockedAvatars"] = BLOCKED_AVATARS_STRINGS[lang]["LoadBlockedAvatars"]
-            data["LoadBlockedAvatarsDescription"] = BLOCKED_AVATARS_STRINGS[lang]["LoadBlockedAvatarsDescription"]
-        else:
-            assert "LoadBlockedAvatars" in data, f"Expected LoadBlockedAvatars already in {lang}"
-            assert "LoadBlockedAvatarsDescription" in data, f"Expected LoadBlockedAvatarsDescription already in {lang}"
+        # 1. Add / update blocked avatars keys
+        assert lang in BLOCKED_AVATARS_STRINGS, f"Missing blocked avatar translations for {lang}"
+        data["LoadBlockedAvatars"] = BLOCKED_AVATARS_STRINGS[lang]["LoadBlockedAvatars"]
+        data["LoadBlockedAvatarsDescription"] = BLOCKED_AVATARS_STRINGS[lang]["LoadBlockedAvatarsDescription"]
             
         # 2. Add channel promo keys for all languages
         assert lang in PROMO_STRINGS, f"Missing promo translations for {lang}"

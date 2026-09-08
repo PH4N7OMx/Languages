@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Отключить упоминания на {duration}",
   "MentionsMenuDuration": "Отключить упоминания на...",
   "MentionsMuteBoxTitle": "Отключить упоминания на...",
-  "LoadBlockedAvatars": "Загружать аватарки через t.me",
+  "LoadBlockedAvatars": "Загружать аватарки заблокированных пользователей",
   "LoadBlockedAvatarsDescription": "Позволяет видеть аватарки пользователей, которые вас заблокировали (при наличии у них юзернейма).",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "Подпишитесь на наш официальный Telegram-канал, чтобы быть в курсе новостей и обновлений!",

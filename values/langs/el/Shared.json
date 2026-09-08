@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Σίγαση αναφορών για {duration}",
   "MentionsMenuDuration": "Σίγαση αναφορών για...",
   "MentionsMuteBoxTitle": "Σίγαση αναφορών για...",
-  "LoadBlockedAvatars": "Φόρτωση εικόνων προφίλ μέσω t.me",
+  "LoadBlockedAvatars": "Φόρτωση εικόνων προφίλ αποκλεισμένων χρηστών",
   "LoadBlockedAvatarsDescription": "Σας επιτρέπει να βλέπετε τις εικόνες προφίλ χρηστών που σας έχουν αποκλείσει, εάν έχουν δημόσιο όνομα χρήστη.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "Εγγραφείτε στο επίσημο κανάλι μας στο Telegram για νέα και ενημερώσεις!",

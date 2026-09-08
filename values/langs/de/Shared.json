@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Erwähnungen stummschalten für {duration}",
   "MentionsMenuDuration": "Erwähnungen stummschalten für...",
   "MentionsMuteBoxTitle": "Erwähnungen stummschalten für...",
-  "LoadBlockedAvatars": "Profilbilder über t.me laden",
+  "LoadBlockedAvatars": "Profilbilder von blockierten Benutzern laden",
   "LoadBlockedAvatarsDescription": "Ermöglicht das Anzeigen von Profilbildern von Benutzern, die Sie blockiert haben, sofern sie einen Benutzernamen haben.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "Abonnieren Sie unseren offiziellen Telegram-Kanal für Neuigkeiten und Updates!",

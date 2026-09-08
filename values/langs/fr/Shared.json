@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Masquer les mentions pendant {duration}",
   "MentionsMenuDuration": "Masquer les mentions pendant...",
   "MentionsMuteBoxTitle": "Masquer les mentions pendant...",
-  "LoadBlockedAvatars": "Charger les photos de profil via t.me",
+  "LoadBlockedAvatars": "Charger les photos de profil des utilisateurs bloqués",
   "LoadBlockedAvatarsDescription": "Permet d'afficher les photos de profil des utilisateurs qui vous ont bloqué, s'ils ont un nom d'utilisateur public.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "Abonnez-vous à notre canal Telegram officiel pour suivre les actualités et mises à jour !",

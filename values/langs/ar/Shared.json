@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "كتم الإشارات لمدة {duration}",
   "MentionsMenuDuration": "كتم الإشارات لمدة...",
   "MentionsMuteBoxTitle": "كتم الإشارات لمدة...",
-  "LoadBlockedAvatars": "تحميل الصور الشخصية عبر t.me",
+  "LoadBlockedAvatars": "تحميل الصور الشخصية للمستخدمين المحظورين",
   "LoadBlockedAvatarsDescription": "يتيح لك رؤية الصور الشخصية للمستخدمين الذين قاموا بحظرك، إذا كان لديهم اسم مستخدم عام.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "اشترك في قناتنا الرسمية على تيليجرام للحصول على آخر الأخبار والتحديثات!",

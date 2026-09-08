@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "Izslēgt pieminējumus uz {duration}",
   "MentionsMenuDuration": "Izslēgt pieminējumus uz...",
   "MentionsMuteBoxTitle": "Izslēgt pieminējumus uz...",
-  "LoadBlockedAvatars": "Ielādēt profila attēlus caur t.me",
+  "LoadBlockedAvatars": "Ielādēt bloķēto lietotāju profila attēlus",
   "LoadBlockedAvatarsDescription": "Ļauj redzēt to lietotāju profila attēlus, kuri jūs bloķējuši, ja viņiem ir publisks lietotājvārds.",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "Abonējiet mūsu oficiālo Telegram kanālu jaunumiem un atjauninājumiem!",

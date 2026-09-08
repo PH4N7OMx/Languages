@@ -473,7 +473,7 @@
   "MentionsMenuDurationAny": "关闭提及提醒 {duration}",
   "MentionsMenuDuration": "关闭提及提醒...",
   "MentionsMuteBoxTitle": "关闭提及提醒...",
-  "LoadBlockedAvatars": "通过 t.me 加载头像",
+  "LoadBlockedAvatars": "加载已拉黑用户的头像",
   "LoadBlockedAvatarsDescription": "允许您查看拉黑您的用户的个人资料照片（如果他们有公开用户名）。",
   "ChannelPromoTitle": "AyuGram Fork",
   "ChannelPromoText": "订阅我们的 Telegram 官方频道以获取最新消息和更新！",
