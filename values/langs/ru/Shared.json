@@ -472,5 +472,7 @@
   "MentionsMenuSoundOff": "Выключить звук упоминаний",
   "MentionsMenuDurationAny": "Отключить упоминания на {duration}",
   "MentionsMenuDuration": "Отключить упоминания на...",
-  "MentionsMuteBoxTitle": "Отключить упоминания на..."
+  "MentionsMuteBoxTitle": "Отключить упоминания на...",
+  "LoadBlockedAvatars": "Загружать аватарки через t.me",
+  "LoadBlockedAvatarsDescription": "Позволяет видеть аватарки пользователей, которые вас заблокировали (при наличии у них юзернейма)."
 }
