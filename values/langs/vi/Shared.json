@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Đọc lịch sử các cuộc trò chuyện này",
   "JellyDocumentation": "Tài liệu JellyPlugins",
   "JellyViewCode": "Xem mã",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Tiện ích mở rộng",
   "JellyInstallNotice": "Gói được lưu mà không chạy mã. Cập nhật sẽ dừng plugin và yêu cầu cấp quyền lại.",
   "JellyPermissionNotice": "Chỉ cấp quyền cho tính năng cần thiết. Không thể truy cập khóa tài khoản hoặc lệnh hệ thống.",
   "JellyCombinedRisk": "Đọc trò chuyện, tệp hoặc số dư cùng với HTTPS cho phép gửi dữ liệu đến các trang được cho phép.",

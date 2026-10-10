@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Читати історію цих чатів",
   "JellyDocumentation": "Документація JellyPlugins",
   "JellyViewCode": "Переглянути код",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Плагіни",
   "JellyInstallNotice": "Пакет збережеться без запуску коду. Оновлення зупиняє плагін і вимагає повторного дозволу.",
   "JellyPermissionNotice": "Дозволяй лише потрібні можливості. Ключі облікового запису й системні команди недоступні.",
   "JellyCombinedRisk": "Читання чатів, файлів чи балансу разом із HTTPS дозволяє передавати ці дані дозволеним сайтам.",

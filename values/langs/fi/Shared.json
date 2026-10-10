@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Lue näiden keskustelujen historia",
   "JellyDocumentation": "JellyPlugins-ohjeet",
   "JellyViewCode": "Näytä koodi",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Lisäosat",
   "JellyInstallNotice": "Paketti tallennetaan suorittamatta koodia. Päivitys pysäyttää lisäosan ja vaatii uuden hyväksynnän.",
   "JellyPermissionNotice": "Salli vain tarvittavat toiminnot. Tilin avaimiin tai järjestelmäkomentoihin ei ole pääsyä.",
   "JellyCombinedRisk": "Keskustelujen, tiedostojen tai saldon luku HTTPS-yhteydellä sallii tietojen lähettämisen hyväksytyille sivustoille.",

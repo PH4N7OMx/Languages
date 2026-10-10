@@ -518,7 +518,7 @@
   "ExclusionAlwaysSave": "Always Save",
   "GesturesInfo": "Double-tap and swipe actions on messages",
   "CustomizationOtherSectionsInfo": "You can find more GummyGram features in the sections above.",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Plugins",
   "JellyInstall": "Install JellyPlugin",
   "JellyInstallNotice": "The package will be saved without running. Replacing a plugin stops it and requires new permission approval.",
   "JellyPermissions": "Plugin permissions",

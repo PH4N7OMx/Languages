@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Verlauf dieser Chats lesen",
   "JellyDocumentation": "JellyPlugins-Dokumentation",
   "JellyViewCode": "Code anzeigen",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Plugins",
   "JellyInstallNotice": "Das Paket wird gespeichert, ohne Code auszuführen. Ein Update stoppt das Plugin und erfordert eine neue Freigabe.",
   "JellyPermissionNotice": "Erlaube nur benötigte Funktionen. Kontoschlüssel und Systembefehle sind nicht zugänglich.",
   "JellyCombinedRisk": "Chat-, Datei- oder Guthabenzugriff mit HTTPS erlaubt die Übertragung dieser Daten an freigegebene Websites.",

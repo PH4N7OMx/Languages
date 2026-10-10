@@ -244,7 +244,7 @@
   "JellyHistoryChats": "读取这些聊天的历史记录",
   "JellyDocumentation": "JellyPlugins 文档",
   "JellyViewCode": "查看代码",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "插件",
   "JellyInstallNotice": "软件包会保存而不执行代码。更新会停止插件，并要求重新批准权限。",
   "JellyPermissionNotice": "仅允许所需功能。无法访问账户密钥和系统命令。",
   "JellyCombinedRisk": "聊天、文件或余额读取权限加上 HTTPS 访问权限，允许插件将数据发送给获准的网站。",

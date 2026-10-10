@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Citește istoricul acestor conversații",
   "JellyDocumentation": "Documentația JellyPlugins",
   "JellyViewCode": "Vezi codul",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Pluginuri",
   "JellyInstallNotice": "Pachetul se salvează fără a rula codul. Actualizarea oprește pluginul și cere o nouă aprobare.",
   "JellyPermissionNotice": "Permite doar funcțiile necesare. Cheile contului și comenzile de sistem sunt inaccesibile.",
   "JellyCombinedRisk": "Citirea chaturilor, fișierelor sau soldurilor cu HTTPS permite trimiterea datelor către site-uri autorizate.",

@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Lire l’historique de ces discussions",
   "JellyDocumentation": "Documentation JellyPlugins",
   "JellyViewCode": "Voir le code",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Extensions",
   "JellyInstallNotice": "Le paquet sera enregistré sans exécuter le code. Une mise à jour arrête le plugin et exige une nouvelle autorisation.",
   "JellyPermissionNotice": "Autorisez seulement les fonctions nécessaires. Les clés du compte et commandes système sont inaccessibles.",
   "JellyCombinedRisk": "Avec HTTPS, l’accès aux discussions, fichiers ou soldes permet d’envoyer ces données aux sites autorisés.",

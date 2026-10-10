@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Leer el historial de estos chats",
   "JellyDocumentation": "Documentación de JellyPlugins",
   "JellyViewCode": "Ver código",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Complementos",
   "JellyInstallNotice": "El paquete se guardará sin ejecutar código. Actualizar detiene el plugin y exige aprobar el acceso de nuevo.",
   "JellyPermissionNotice": "Permite solo las funciones necesarias. No hay acceso a claves de cuenta ni comandos del sistema.",
   "JellyCombinedRisk": "Leer chats, archivos o saldos con acceso HTTPS permite enviar esos datos a sitios autorizados.",

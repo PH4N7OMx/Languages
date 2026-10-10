@@ -488,7 +488,7 @@
   "JellyCodeNotice": "Установленный JavaScript. Только просмотр; исходный TypeScript может отличаться от этого кода.",
   "JellyViewCode": "Посмотреть код",
   "JellyDocumentation": "Документация JellyPlugins",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Плагины",
   "JellyInstall": "Установить JellyPlugin",
   "JellyInstallNotice": "Пакет будет сохранён без запуска. Замена плагина останавливает его и требует повторного разрешения доступа.",
   "JellyPermissions": "Разрешения плагина",

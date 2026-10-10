@@ -506,7 +506,7 @@
   "JellyHistoryChats": "讀取這些聊天的歷史記錄",
   "JellyDocumentation": "JellyPlugins 文件",
   "JellyViewCode": "檢視程式碼",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "外掛",
   "JellyInstallNotice": "套件會儲存而不執行程式碼。更新會停止外掛程式，並要求重新批准權限。",
   "JellyPermissionNotice": "僅允許所需功能。無法存取帳戶金鑰和系統命令。",
   "JellyCombinedRisk": "聊天、檔案或餘額讀取權限加上 HTTPS 存取權限，允許外掛程式將資料傳送給獲准的網站。",

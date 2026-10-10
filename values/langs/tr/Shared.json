@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Bu sohbetlerin geçmişini oku",
   "JellyDocumentation": "JellyPlugins belgeleri",
   "JellyViewCode": "Kodu görüntüle",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Eklentiler",
   "JellyInstallNotice": "Paket kod çalıştırılmadan kaydedilir. Güncelleme eklentiyi durdurur ve yeniden izin gerektirir.",
   "JellyPermissionNotice": "Yalnızca gereken özelliklere izin verin. Hesap anahtarları ve sistem komutları kullanılamaz.",
   "JellyCombinedRisk": "Sohbet, dosya veya bakiye okuma ile HTTPS erişimi, verilerin izin verilen sitelere gönderilmesini sağlar.",

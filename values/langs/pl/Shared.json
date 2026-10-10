@@ -506,7 +506,7 @@
   "JellyHistoryChats": "Czytaj historię tych czatów",
   "JellyDocumentation": "Dokumentacja JellyPlugins",
   "JellyViewCode": "Pokaż kod",
-  "JellyPlugins": "JellyPlugins",
+  "JellyPlugins": "Wtyczki",
   "JellyInstallNotice": "Pakiet zostanie zapisany bez uruchamiania kodu. Aktualizacja zatrzymuje wtyczkę i wymaga ponownej zgody.",
   "JellyPermissionNotice": "Zezwalaj tylko na potrzebne funkcje. Klucze konta i polecenia systemowe są niedostępne.",
   "JellyCombinedRisk": "Odczyt czatów, plików lub salda z HTTPS pozwala wysłać te dane do dozwolonych witryn.",
