@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Stars / Telegram TON bakiyemi oku",
   "JellyWebviewBots": "Bu botların Mini Apps uygulamalarını aç",
   "JellyFileNotice": "Her okuma veya kayıtta bir dosya seçersiniz. Eklenti içeriği alır, tam yolu almaz. Kaydetme mevcut dosyanın üzerine yazabilir.",
-  "JellyMiniAppsNotice": "Mini Apps profilinizi Telegram üzerinden alır. Eklenti uygulamayı okuyamaz, oturum açamaz veya ödemeleri onaylayamaz."
+  "JellyMiniAppsNotice": "Mini Apps profilinizi Telegram üzerinden alır. Eklenti uygulamayı okuyamaz, oturum açamaz veya ödemeleri onaylayamaz.",
+  "JellyMenuChats": "Bu sohbetlerde menü eylemleri ekle ve tıkladığım mesajları oku",
+  "JellyDialogs": "Bildirimler ve onay iletişim kutuları göster",
+  "JellySettingsNotice": "Aşağıdaki ayarları değiştirin. Kaydetme eklentiyi durdurur; tekrar etkinleştirin.",
+  "JellyInvalidSettings": "Vurgulanan ayarları ve izin verilen değerleri kontrol edin.",
+  "JellyEditJson": "JSON düzenle"
 }

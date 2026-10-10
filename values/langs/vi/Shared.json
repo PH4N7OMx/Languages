@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Đọc số dư Stars / Telegram TON của tôi",
   "JellyWebviewBots": "Mở Mini Apps của các bot này",
   "JellyFileNotice": "Bạn chọn tệp cho mỗi lần đọc hoặc lưu. Plugin nhận nội dung, không nhận đường dẫn đầy đủ. Việc lưu có thể thay thế tệp hiện có.",
-  "JellyMiniAppsNotice": "Mini Apps nhận hồ sơ của bạn qua Telegram. Plugin không thể đọc ứng dụng, đăng nhập hay phê duyệt thanh toán."
+  "JellyMiniAppsNotice": "Mini Apps nhận hồ sơ của bạn qua Telegram. Plugin không thể đọc ứng dụng, đăng nhập hay phê duyệt thanh toán.",
+  "JellyMenuChats": "Thêm tác vụ vào menu và đọc tin nhắn tôi chọn trong các cuộc trò chuyện này",
+  "JellyDialogs": "Hiển thị thông báo và hộp thoại xác nhận",
+  "JellySettingsNotice": "Thay đổi cài đặt bên dưới. Lưu sẽ dừng plugin; hãy bật lại.",
+  "JellyInvalidSettings": "Kiểm tra cài đặt được đánh dấu và các giá trị cho phép.",
+  "JellyEditJson": "Sửa JSON"
 }

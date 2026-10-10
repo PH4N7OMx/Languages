@@ -518,5 +518,10 @@
   "JellyMoneyRead": "讀取我的 Stars / Telegram TON 餘額",
   "JellyWebviewBots": "開啟這些機器人的 Mini Apps",
   "JellyFileNotice": "每次讀取或儲存都由你選擇檔案。外掛程式取得內容，不取得完整路徑。儲存可能覆寫已有檔案。",
-  "JellyMiniAppsNotice": "Mini Apps 透過 Telegram 取得你的個人資料。外掛程式無法讀取應用程式、登入或核准付款。"
+  "JellyMiniAppsNotice": "Mini Apps 透過 Telegram 取得你的個人資料。外掛程式無法讀取應用程式、登入或核准付款。",
+  "JellyMenuChats": "新增選單操作並讀取我在這些聊天中點選的訊息",
+  "JellyDialogs": "顯示通知和確認對話框",
+  "JellySettingsNotice": "修改以下設定。儲存會停止外掛程式；請重新啟用以套用變更。",
+  "JellyInvalidSettings": "請檢查標示的設定和允許的取值範圍。",
+  "JellyEditJson": "編輯 JSON"
 }

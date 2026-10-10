@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Odczyt mojego salda Stars / Telegram TON",
   "JellyWebviewBots": "Otwieranie Mini Apps tych botów",
   "JellyFileNotice": "Wybierasz plik przy każdym odczycie lub zapisie. Wtyczka otrzymuje zawartość, ale nie pełną ścieżkę. Zapis może zastąpić istniejący plik.",
-  "JellyMiniAppsNotice": "Mini Apps otrzymują Twój profil przez Telegram. Wtyczka nie może czytać aplikacji, logować się ani zatwierdzać płatności."
+  "JellyMiniAppsNotice": "Mini Apps otrzymują Twój profil przez Telegram. Wtyczka nie może czytać aplikacji, logować się ani zatwierdzać płatności.",
+  "JellyMenuChats": "Dodawanie działań do menu i czytanie klikniętych wiadomości w tych czatach",
+  "JellyDialogs": "Wyświetlanie powiadomień i okien potwierdzenia",
+  "JellySettingsNotice": "Zmień ustawienia poniżej. Zapis zatrzymuje wtyczkę; włącz ją ponownie.",
+  "JellyInvalidSettings": "Sprawdź zaznaczone ustawienia i dozwolone wartości.",
+  "JellyEditJson": "Edytuj JSON"
 }

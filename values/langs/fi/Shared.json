@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Lue Stars-/Telegram TON -saldoni",
   "JellyWebviewBots": "Avaa näiden bottien Mini Apps",
   "JellyFileNotice": "Valitset tiedoston jokaiselle lukemiselle tai tallennukselle. Lisäosa saa sisällön, ei koko polkua. Tallennus voi korvata olemassa olevan tiedoston.",
-  "JellyMiniAppsNotice": "Mini Apps saa profiilisi Telegramin kautta. Lisäosa ei voi lukea sovellusta, kirjautua siihen tai hyväksyä maksuja."
+  "JellyMiniAppsNotice": "Mini Apps saa profiilisi Telegramin kautta. Lisäosa ei voi lukea sovellusta, kirjautua siihen tai hyväksyä maksuja.",
+  "JellyMenuChats": "Lisää valikkotoimintoja ja lue napsauttamani viestit näissä keskusteluissa",
+  "JellyDialogs": "Näytä ilmoituksia ja vahvistusikkunoita",
+  "JellySettingsNotice": "Muuta asetuksia alla. Tallennus pysäyttää lisäosan; ota se uudelleen käyttöön.",
+  "JellyInvalidSettings": "Tarkista korostetut asetukset ja sallitut arvot.",
+  "JellyEditJson": "Muokkaa JSONia"
 }

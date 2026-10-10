@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Citirea soldului meu Stars / Telegram TON",
   "JellyWebviewBots": "Deschiderea Mini Apps ale acestor boți",
   "JellyFileNotice": "Alegi un fișier la fiecare citire sau salvare. Pluginul primește conținutul, fără calea completă. Salvarea poate înlocui fișiere existente.",
-  "JellyMiniAppsNotice": "Mini Apps primesc profilul tău prin Telegram. Pluginul nu poate citi aplicația, autentifica sau aproba plăți."
+  "JellyMiniAppsNotice": "Mini Apps primesc profilul tău prin Telegram. Pluginul nu poate citi aplicația, autentifica sau aproba plăți.",
+  "JellyMenuChats": "Adăugarea acțiunilor în meniu și citirea mesajelor selectate în aceste chaturi",
+  "JellyDialogs": "Afișarea notificărilor și dialogurilor de confirmare",
+  "JellySettingsNotice": "Modifică setările de mai jos. Salvarea oprește pluginul; activează-l din nou.",
+  "JellyInvalidSettings": "Verifică setările evidențiate și valorile permise.",
+  "JellyEditJson": "Editează JSON"
 }

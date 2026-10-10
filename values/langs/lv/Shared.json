@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Lasīt manu Stars / Telegram TON atlikumu",
   "JellyWebviewBots": "Atvērt šo botu Mini Apps",
   "JellyFileNotice": "Katram lasījumam vai saglabāšanai izvēlies failu. Spraudnis saņem saturu, nevis pilnu ceļu. Saglabāšana var aizstāt esošu failu.",
-  "JellyMiniAppsNotice": "Mini Apps saņem tavu profilu caur Telegram. Spraudnis nevar lasīt lietotni, tajā pierakstīties vai apstiprināt maksājumus."
+  "JellyMiniAppsNotice": "Mini Apps saņem tavu profilu caur Telegram. Spraudnis nevar lasīt lietotni, tajā pierakstīties vai apstiprināt maksājumus.",
+  "JellyMenuChats": "Pievienot izvēlnes darbības un lasīt manis izvēlētās ziņas šajās tērzēšanās",
+  "JellyDialogs": "Rādīt paziņojumus un apstiprinājuma logus",
+  "JellySettingsNotice": "Maini iestatījumus zemāk. Saglabāšana aptur spraudni; ieslēdz to vēlreiz.",
+  "JellyInvalidSettings": "Pārbaudi izceltos iestatījumus un atļautās vērtības.",
+  "JellyEditJson": "Rediģēt JSON"
 }

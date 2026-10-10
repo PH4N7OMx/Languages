@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Leer mi saldo de Stars / Telegram TON",
   "JellyWebviewBots": "Abrir Mini Apps de estos bots",
   "JellyFileNotice": "Eliges un archivo en cada lectura o guardado. El plugin recibe su contenido, sin la ruta completa. Guardar puede reemplazar archivos existentes.",
-  "JellyMiniAppsNotice": "Las Mini Apps reciben tu perfil a través de Telegram. El plugin no puede leer la app, iniciar sesión ni aprobar pagos."
+  "JellyMiniAppsNotice": "Las Mini Apps reciben tu perfil a través de Telegram. El plugin no puede leer la app, iniciar sesión ni aprobar pagos.",
+  "JellyMenuChats": "Añadir acciones al menú y leer mensajes que pulse en estos chats",
+  "JellyDialogs": "Mostrar avisos y diálogos de confirmación",
+  "JellySettingsNotice": "Cambia los ajustes siguientes. Guardar detiene el plugin; vuelve a activarlo.",
+  "JellyInvalidSettings": "Revisa los ajustes resaltados y los valores permitidos.",
+  "JellyEditJson": "Editar JSON"
 }

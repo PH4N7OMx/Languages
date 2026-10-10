@@ -518,5 +518,10 @@
   "JellyMoneyRead": "读取我的 Stars / Telegram TON 余额",
   "JellyWebviewBots": "打开这些机器人的 Mini Apps",
   "JellyFileNotice": "每次读取或保存都由你选择文件。插件获得内容，不获得完整路径。保存可能覆盖已有文件。",
-  "JellyMiniAppsNotice": "Mini Apps 通过 Telegram 获取你的个人资料。插件无法读取应用、登录或批准付款。"
+  "JellyMiniAppsNotice": "Mini Apps 通过 Telegram 获取你的个人资料。插件无法读取应用、登录或批准付款。",
+  "JellyMenuChats": "添加菜单操作并读取我在这些聊天中点击的消息",
+  "JellyDialogs": "显示通知和确认对话框",
+  "JellySettingsNotice": "修改以下设置。保存会停止插件；请重新启用以应用更改。",
+  "JellyInvalidSettings": "请检查标出的设置和允许的取值范围。",
+  "JellyEditJson": "编辑 JSON"
 }

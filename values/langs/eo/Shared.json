@@ -518,5 +518,10 @@
   "JellyMoneyRead": "Legi mian saldon Stars / Telegram TON",
   "JellyWebviewBots": "Malfermi Mini Apps de ĉi tiuj robotoj",
   "JellyFileNotice": "Vi elektas dosieron por ĉiu legado aŭ konservado. La kromprogramo ricevas la enhavon, ne la plenan vojon. Konservado povas anstataŭigi ekzistantan dosieron.",
-  "JellyMiniAppsNotice": "Mini Apps ricevas vian profilon per Telegram. La kromprogramo ne povas legi la aplikaĵon, ensaluti aŭ aprobi pagojn."
+  "JellyMiniAppsNotice": "Mini Apps ricevas vian profilon per Telegram. La kromprogramo ne povas legi la aplikaĵon, ensaluti aŭ aprobi pagojn.",
+  "JellyMenuChats": "Aldoni menuajn agojn kaj legi mesaĝojn alklakitajn de mi en ĉi tiuj babilejoj",
+  "JellyDialogs": "Montri sciigojn kaj konfirmajn dialogojn",
+  "JellySettingsNotice": "Ŝanĝu la agordojn sube. Konservado haltigas la kromprogramon; reaktivigu ĝin.",
+  "JellyInvalidSettings": "Kontrolu la markitajn agordojn kaj permesitajn valorojn.",
+  "JellyEditJson": "Redakti JSON"
 }
