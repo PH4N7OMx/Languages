@@ -53,14 +53,14 @@ for lang in langs:
     if not os.path.exists(f'./out/android/values{suffix}'):
         os.mkdir(f'./out/android/values{suffix}')
 
-    tree.write(f'./out/android/values{suffix}/ayu.xml', pretty_print=True, xml_declaration=True, encoding='utf-8')
+    tree.write(f'./out/android/values{suffix}/jel.xml', pretty_print=True, xml_declaration=True, encoding='utf-8')
 
     # fix CDATA
-    with open(f'./out/android/values{suffix}/ayu.xml', encoding='utf-8') as f:
+    with open(f'./out/android/values{suffix}/jel.xml', encoding='utf-8') as f:
         data = f.read()
         data = re.sub(r'&lt;!\[CDATA\[&lt;a href="(.+?)"&gt;(.+?)&lt;/a&gt;\]\]&gt;', r'<![CDATA[<a href="\1">\2</a>]]>', data)
 
-    with open(f'./out/android/values{suffix}/ayu.xml', 'w', encoding='utf-8') as f:
+    with open(f'./out/android/values{suffix}/jel.xml', 'w', encoding='utf-8') as f:
         f.write(data)
 
     print(f'Processed "{lang}"')

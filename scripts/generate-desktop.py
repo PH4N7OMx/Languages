@@ -28,7 +28,7 @@ req = requests.get(
 data = req.text
 data += '''
 
-// AyuGram keys generated
+// GummyGram keys generated
 
 '''
 
@@ -68,7 +68,7 @@ for k, v in strings.items():
 
 for k, v in desktop_strings.items():
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
-    data += f'"ayu_{k}" = "{escaped}";\n'
+    data += f'"jel_{k}" = "{escaped}";\n'
 
 if not os.path.exists('./out'):
     os.mkdir('./out')
